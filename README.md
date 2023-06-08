@@ -76,4 +76,4 @@ This API has 4 endpoints:
 
 Deployed the Fast API in Render Paltform 
 
-'https://restapi-yjdf.onrender.com/docs'
+https://restapi-yjdf.onrender.com/docs
