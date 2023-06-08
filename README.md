@@ -1,5 +1,6 @@
 # SteelEye-API-Developer-Assignment
 
+' https://restapi-yjdf.onrender.com/docs' 
 Built a REST API using FastAPI with endpoints serving CRUD functionallity for Trade data. 
 Here I have used a dummy data list of dict containing trade details (as per provided schema). 
 
@@ -69,3 +70,7 @@ This API has 4 endpoints:
 </tr>
 </tbody>
 </table>
+
+Deployed the Fast API in Render Paltform 
+
+'https://restapi-yjdf.onrender.com/docs'
